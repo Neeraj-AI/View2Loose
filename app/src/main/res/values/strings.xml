@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">View2Loose</string>
+    <string name="facebook_app_id">1061847084187129</string>
+    <string name="fb_login_protocol_scheme">fb1061847084187129</string>
+    <string name="login">Login</string>
+
+
 </resources>
